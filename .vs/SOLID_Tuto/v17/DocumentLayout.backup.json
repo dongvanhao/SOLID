@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\model\\salad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\model\\salad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\model\\ifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\model\\ifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\model\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\model\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\service\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\service\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\service\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\service\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\solid_tuto\\solid_tuto\\model\\icookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A611C0A-71F9-4872-B6AC-911DE26DE1CF}|SOLID_Tuto\\SOLID_Tuto.csproj|solutionrelative:solid_tuto\\model\\icookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kitchen.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Service\\Kitchen.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Service\\Kitchen.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Service\\Kitchen.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Service\\Kitchen.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:50:36.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Service\\Order.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Service\\Order.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Service\\Order.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Service\\Order.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:50:20.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salad.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\Salad.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Model\\Salad.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\Salad.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Model\\Salad.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:50:05.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\Pizza.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Model\\Pizza.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\Pizza.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Model\\Pizza.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:49:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\Burger.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Model\\Burger.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\Burger.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Model\\Burger.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:49:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICookable.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\ICookable.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Model\\ICookable.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\ICookable.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Model\\ICookable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:49:07.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFood.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\IFood.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Model\\IFood.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Model\\IFood.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Model\\IFood.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:48:51.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_Tuto\\Program.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SOLID_Tuto\\SOLID_Tuto\\Program.cs*",
+              "RelativeToolTip": "SOLID_Tuto\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:41:26.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\bin\Debug\net8.0\SOLID_Tuto.exe
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\bin\Debug\net8.0\SOLID_Tuto.deps.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\bin\Debug\net8.0\SOLID_Tuto.runtimeconfig.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\bin\Debug\net8.0\SOLID_Tuto.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\bin\Debug\net8.0\SOLID_Tuto.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\SOLID_Tuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\SOLID_Tuto.AssemblyInfoInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\SOLID_Tuto.AssemblyInfo.cs
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\SOLID_Tuto.csproj.CoreCompileInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\SOLID_Tuto.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\refint\SOLID_Tuto.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\SOLID_Tuto.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\SOLID_Tuto.genruntimeconfig.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\SOLID_Tuto\SOLID_Tuto\obj\Debug\net8.0\ref\SOLID_Tuto.dll
